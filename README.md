@@ -6,7 +6,8 @@
 
 ### App Walk-though
 
-<img src=https://imgur.com/a/MjRMYqm width=200><br>
+![Codepaths gif prework](https://user-images.githubusercontent.com/103553634/179383941-8c79b6c4-5532-46cb-949e-e8df538da05b.gif)
+
 
 
 ### Required User Stories
